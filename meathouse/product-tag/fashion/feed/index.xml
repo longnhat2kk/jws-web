@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fashion &#8211; meathouse</title>
+	<atom:link href="/product-tag/fashion/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Trang web Wordpess</description>
+	<lastBuildDate>Thu, 30 Mar 2023 03:54:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Lisaci Cuff</title>
+		<link>/product/lisaci-cuff/</link>
+					<comments>/product/lisaci-cuff/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Mar 2023 02:17:03 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1128</guid>
+
+					<description><![CDATA[A precious and highly durable metal which comes in different golden hues depending on its purity. Every piece is handcrafted with 100% recycled gold vermeil and sterling silver, reducing CO2 emissions by over 60%. Turns out the best things really do come in small packages. . To avoid contamination by contact, store the piece away [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>A precious and highly durable metal which comes in different golden hues depending on its purity. Every piece is handcrafted with 100% recycled gold vermeil and sterling silver, reducing CO2 emissions by over 60%. Turns out the best things really do come in small packages. . To avoid contamination by contact, store the piece away from any metal that might cause it to rust. Avoid scrapes and scratches, as the plating is applied only to the surface of the piece. Clean with water, pH-neutral soap and a small brush.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/lisaci-cuff/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

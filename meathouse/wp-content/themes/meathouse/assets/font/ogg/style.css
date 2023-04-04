@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Ogg';
+    src:url('/wp-content/themes/meathouse/assets/font/ogg/OggRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ogg';
+    src:url('/wp-content/themes/meathouse/assets/font/ogg/Ogg-Italic.otf') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+

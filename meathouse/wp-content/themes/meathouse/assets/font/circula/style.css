@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Circular Std Book';
+    src: url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Book.eot');
+    src: url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Book.eot#iefix') format('embedded-opentype'),
+        url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Book.woff2') format('woff2'),
+        url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Book.woff') format('woff'),
+        url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Book.ttf') format('truetype'),
+        url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Book.svg#CircularStd-Book') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Circular Std Book';
+    src: url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Medium.eot');
+    src: url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Medium.eot#iefix') format('embedded-opentype'),
+        url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Medium.woff2') format('woff2'),
+        url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Medium.woff') format('woff'),
+        url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Medium.ttf') format('truetype'),
+        url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Medium.svg#CircularStd-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Circular Std Book';
+    src: url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Bold.eot');
+    src: url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Bold.eot#iefix') format('embedded-opentype'),
+        url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Bold.woff2') format('woff2'),
+        url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Bold.woff') format('woff'),
+        url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Bold.ttf') format('truetype'),
+        url('/wp-content/themes/meathouse/assets/font/circula/CircularStd-Bold.svg#CircularStd-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+

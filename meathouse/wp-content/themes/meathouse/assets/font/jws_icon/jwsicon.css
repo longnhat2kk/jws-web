@@ -1,0 +1,299 @@
+@font-face {
+  font-family: 'jws_icon';
+  src: url('/wp-content/themes/meathouse/assets/font/jws_icon/jws_icon.eot?41701544');
+  src: url('/wp-content/themes/meathouse/assets/font/jws_icon/jws_icon.eot?41701544#iefix') format('embedded-opentype'),
+    url('/wp-content/themes/meathouse/assets/font/jws_icon/jws_icon.woff2?41701544') format('woff2'),
+    url('/wp-content/themes/meathouse/assets/font/jws_icon/jws_icon.woff?41701544') format('woff'),
+    url('/wp-content/themes/meathouse/assets/font/jws_icon/jws_icon.ttf?41701544') format('truetype'),
+    url('/wp-content/themes/meathouse/assets/font/jws_icon/jws_icon.svg?41701544#jws-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'jws-icon';
+    src: url('/wp-content/themes/meathouse/assets/font/font/jws-icon.svg?78760205#jws-icon') format('svg');
+  }
+}
+*/
+
+[class^="jws-icon-"]:before,
+[class*=" jws-icon-"]:before {
+  font-family: "jws_icon";
+  font-style: normal;
+  font-weight: inherit;
+
+}
+
+[class^="jws-icon-"]::after,
+[class*=" jws-icon-"]::after {
+  font-family: "jws_icon";
+  font-style: normal;
+  font-weight: inherit;
+
+}
+
+.jws-icon-twitter-logo-fill:before {
+  content: '\e800';
+}
+
+/* '' */
+.jws-icon-facebook-logo-fill:before {
+  content: '\e801';
+}
+
+/* '' */
+.jws-icon-pinterest-logo-fill:before {
+  content: '\e802';
+}
+
+/* '' */
+.jws-icon-handbag-thin-1:before {
+  content: '\e803';
+}
+
+/* '' */
+.jws-icon-heart-straight-thin-1:before {
+  content: '\e804';
+}
+
+/* '' */
+.jws-icon-trash-bold:before {
+  content: '\e805';
+}
+
+/* '' */
+.jws-icon-check-circle-fill:before {
+  content: '\e806';
+}
+
+/* '' */
+.jws-icon-arrow-up-right-thin-1:before {
+  content: '\e807';
+}
+
+/* '' */
+.jws-icon-handbag-light-1:before {
+  content: '\e808';
+}
+
+/* '' */
+.jws-icon-heart-straight-fill:before {
+  content: '\e809';
+}
+
+/* '' */
+.jws-icon-check-circle-thin-1:before {
+  content: '\e80a';
+}
+
+/* '' */
+.jws-icon-cross:before {
+  content: '\e814';
+}
+
+/* '' */
+.jws-icon-expand_right_double:before {
+  content: '\e815';
+}
+
+/* '' */
+.jws-icon-arrow-right-thin:before {
+  content: '\ea5d';
+}
+
+/* '' */
+.jws-icon-arrow-up-right-thin:before {
+  content: '\ea71';
+}
+
+/* '' */
+.jws-icon-caret-down-thin:before {
+  content: '\eaec';
+}
+
+/* '' */
+.jws-icon-caret-left-thin:before {
+  content: '\eaed';
+}
+
+/* '' */
+.jws-icon-caret-right-thin:before {
+  content: '\eaee';
+}
+
+/* '' */
+.jws-icon-chat-centered-text-thin:before {
+  content: '\eb02';
+}
+
+/* '' */
+.jws-icon-check-circle-thin:before {
+  content: '\eb10';
+}
+
+/* '' */
+.jws-icon-envelope-simple-thin:before {
+  content: '\eb91';
+}
+
+/* '' */
+.jws-icon-eye-thin:before {
+  content: '\eb9a';
+}
+
+/* '' */
+.jws-icon-handbag-thin:before {
+  content: '\ec28';
+}
+
+/* '' */
+.jws-icon-heart-straight-thin:before {
+  content: '\ec34';
+}
+
+/* '' */
+.jws-icon-magnifying-glass-thin:before {
+  content: '\ec7c';
+}
+
+/* '' */
+.jws-icon-shopping-cart-simple-thin:before {
+  content: '\ed4b';
+}
+
+/* '' */
+.jws-icon-user-circle-thin:before {
+  content: '\ede8';
+}
+
+/* '' */
+.jws-icon-arrow-left-light:before {
+  content: '\ee6b';
+}
+
+/* '' */
+.jws-icon-arrow-right-light:before {
+  content: '\ee74';
+}
+
+/* '' */
+.jws-icon-bag-light:before {
+  content: '\eea4';
+}
+
+/* '' */
+.jws-icon-corners-out-light:before {
+  content: '\ef60';
+}
+
+/* '' */
+.jws-icon-eye-slash-light:before {
+  content: '\efb1';
+}
+
+/* '' */
+.jws-icon-handbag-light:before {
+  content: '\f03e';
+}
+
+/* '' */
+.jws-icon-handbag-simple-light:before {
+  content: '\f03f';
+}
+
+/* '' */
+.jws-icon-heart-straight-light:before {
+  content: '\f04c';
+}
+
+/* '' */
+.jws-icon-magnifying-glass-light:before {
+  content: '\f091';
+}
+
+/* '' */
+.jws-icon-truck-light:before {
+  content: '\f1f5';
+}
+
+/* '' */
+.jws-icon-user-circle-light:before {
+  content: '\f1fd';
+}
+
+/* '' */
+.jws-icon-warning-light:before {
+  content: '\f216';
+}
+
+/* '' */
+.jws-icon-alarm:before {
+  content: '\f238';
+}
+
+/* '' */
+.jws-icon-commenting-o:before {
+  content: '\f27b';
+}
+
+/* '' */
+.jws-icon-check:before {
+  content: '\f33e';
+}
+
+/* '' */
+.jws-icon-dots-three-outline-vertical:before {
+  content: '\f3af';
+}
+
+/* '' */
+.jws-icon-funnel:before {
+  content: '\f425';
+}
+
+/* '' */
+.jws-icon-handbag:before {
+  content: '\f455';
+}
+
+/* '' */
+.jws-icon-list:before {
+  content: '\f497';
+}
+
+/* '' */
+.jws-icon-minus:before {
+  content: '\f4bf';
+}
+
+/* '' */
+.jws-icon-package:before {
+  content: '\f4fa';
+}
+
+/* '' */
+.jws-icon-play-circle:before {
+  content: '\f52c';
+}
+
+/* '' */
+.jws-icon-plus:before {
+  content: '\f531';
+}
+
+/* '' */
+.jws-icon-storefront:before {
+  content: '\f5ba';
+}
+
+/* '' */
+.jws-icon-user-circle:before {
+  content: '\f614';
+}
+
+/* '' */
